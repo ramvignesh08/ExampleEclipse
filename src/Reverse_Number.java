@@ -10,8 +10,7 @@ public class Reverse_Number {
 			sum=(sum*10)+b;
 			number=number/10;
 		}
-		System.out.println(sum);
-		System.out.println(number);
+		System.out.println(sum+number);
 	}
 
 }
